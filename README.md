@@ -1,2 +1,2 @@
 # Mathematical-modeling-ThesisPT
-This repository contains document files for the thesis titled "Mathematical modeling of genetic interactions among genes affecting brain morphometry in schizophrenia" submitted by Ms. Priyadarshini Thirunavukkarasu
+This repository contains document files for the thesis titled "Mathematical modeling of genetic interactions among genes affecting brain morphometry in schizophrenia" submitted by Ms. Priyadarshini Thirunavukkarasu. This PhD work was supervised by Prof. John P John and co-guided by Dr. Meera Purushottam at National Institute of Mental Health and Neurosciences (NIMHANS), Bangalore, India.
